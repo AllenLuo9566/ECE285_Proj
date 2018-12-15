@@ -20,9 +20,9 @@ code/VGG_16.ipynb            --     Code of VGG-16 model
 
 Authors
 =======
-Tianyu Qin
-Shuang Li
-Yumeng Ruan
-Shihao Luo
+Tianyu Qin/
+Shuang Li/
+Yumeng Ruan/
+Shihao Luo/
 
 
