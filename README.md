@@ -8,12 +8,14 @@ In this project, we use CNN models to classify 101 kinds of food. What we will d
 Getting Started
 ===============
 Load this dataset with pytorch using ImageFolder as the labels are specified by the folders names.
+If you wang to run the demo, go to https://1drv.ms/u/s!Au68m8RyvYVqiBlCPUTXuaawe5UH to get the 'VGG16_food_101_true_dataset.h5' and put it in the same folder with demo.ipynb. Besides, you need to unzip 'food-101 demo.zip' and put it in the same folder with demo.ipynb.
 
 
 Code organization
 =================
 
 demo.ipynb                   --     Run a demo of our code     
+food-101 demo.zip            --     Small dataset containing 8 images for demo
 assets/Dataset.ipynb         --     The dataset we used     
 code/googlenet.ipynb         --     Code of GoogLeNet model     
 code/VGG_16.ipynb            --     Code of VGG-16 model   
