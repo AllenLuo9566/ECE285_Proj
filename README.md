@@ -13,10 +13,10 @@ Load this dataset with pytorch using ImageFolder as the labels are specified by 
 Code organization
 =================
 
-demo.ipynb                   --   Run a demo of our code
-assets/Dataset.ipynb         --   The dataset we used
-code/VGG_16.ipynb            --   Code of VGG-16 model
-code/googlenet.ipynb         --   Code of GoogLeNet model
+demo.ipynb                   --     Run a demo of our code
+assets/Dataset.ipynb         --     The dataset we used
+code/googlenet.ipynb         --     Code of GoogLeNet model
+code/VGG_16.ipynb            --     Code of VGG-16 model
 
 Authors
 =======
