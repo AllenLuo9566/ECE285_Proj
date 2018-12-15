@@ -3,7 +3,7 @@
 Description
 ===========
 
-In this project, we use CNN transfer learning to classify retinal damage from OCT scans. What we will do is using a model (VGG-16 and GoogLeNet) which is already capable of extracting features from an image and train its fully connected network in order to classify different types of retinal damage instead of objects. Also we try to improve its performance by using some machine learning algorithms and adjusting parameters. Finally we will reach to an overall graph based analysis and evaluation for this model. This work will use PyTorch as deep learning framework and CUDA for GPU acceleration. 
+In this project, we use CNN models to classify 101 kinds of food. What we willdo this using two models (VGG-16 and GoogLeNet) which are already capableof extracting features from an image and train its fully connected network inorder to classify different types of food. Also we try to analyze and improve itsperformance by adjusting parameters. Finally we will reach to some overall graphsbased analysis and evaluation for this model. This work will use PyTorch as deeplearning framework and CUDA for GPU acceleration.
 
 Getting Started
 ===============
