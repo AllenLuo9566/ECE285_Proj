@@ -3,7 +3,7 @@
 Description
 ===========
 
-In this project, we use CNN models to classify 101 kinds of food. What we willdo this using two models (VGG-16 and GoogLeNet) which are already capableof extracting features from an image and train its fully connected network inorder to classify different types of food. Also we try to analyze and improve itsperformance by adjusting parameters. Finally we will reach to some overall graphsbased analysis and evaluation for this model. This work will use PyTorch as deeplearning framework and CUDA for GPU acceleration.
+In this project, we use CNN models to classify 101 kinds of food. What we will do this using two models (VGG-16 and GoogLeNet) which are already capable of extracting features from an image and train its fully connected network inorder to classify different types of food. Also we try to analyze and improve its performance by adjusting parameters. Finally we will reach to some overall graphs based analysis and evaluation for this model. This work will use PyTorch as deeplearning framework and CUDA for GPU acceleration.
 
 Getting Started
 ===============
